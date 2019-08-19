@@ -1,7 +1,7 @@
 # sass-build
 SASS compiler, with live server, browser prefixing and minimization packages to boost CSS productivity
 
-##How to use
+## How to use
 ```bash
 1 - npm install
 1.1 - Don't have liver server? - npm install live-server -g
@@ -10,7 +10,7 @@ SASS compiler, with live server, browser prefixing and minimization packages to 
 4 - Deploy!
 ```
 
-##Information
+## Information
 All SASS written will be minimized, prefixed and concated together at the end.
 So you do not need to pay attention to browser support when it comes to using prefixes. jutincase [CanIUse](https://caniuse.com/).
 
