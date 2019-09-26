@@ -4,7 +4,7 @@ SASS compiler, with live server, browser prefixing and minimization packages to 
 ## How to use
 ```bash
 1 - npm install
-1.1 - Don't have liver server? - npm install live-server -g
+1.1 - Don't have live server? - npm install live-server -g
 2 - npm run start (To start watching files SASS files)
 3 - npm run build:css (to build the SASS into CSS) - Run before every Pull Request
 4 - Deploy!
