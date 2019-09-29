@@ -5,7 +5,7 @@ SASS compiler, with live server, browser prefixing and minimization packages to 
 ```bash
 1 - npm install
 1.1 - Don't have live server? - npm install live-server -g
-2 - npm run start (To start watching files SASS files)
+2 - npm run start (To start watching the SASS files)
 3 - npm run build:css (to build the SASS into CSS) - Run before every Pull Request
 4 - Deploy!
 ```
