@@ -1,5 +1,4 @@
 //ABSTRACTS
-@import "abstracts/functions";
 @import "abstracts/mixins";
 @import "abstracts/variables";
 
@@ -10,10 +9,10 @@
 @import "base/utilities";
 
 //COMPONENTS
+//TODO
 
-//LAYOUTS
-@import "layout/grid";
-
-//PAGES
-@import "pages/home";
+// Layouts
+@import "layout/navigation";
+@import "layout/header";
+@import "layout/footer";
 
